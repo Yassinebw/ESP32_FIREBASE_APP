@@ -1,0 +1,6 @@
+{
+  "rules": {
+    ".read": "auth.uid === 'aMSJ7FzR6iNzWCfIN2RTkOxouoy2'",
+    ".write": "auth.uid === 'aMSJ7FzR6iNzWCfIN2RTkOxouoy2'"
+  }
+}

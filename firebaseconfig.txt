@@ -1,0 +1,3 @@
+user id aMSJ7FzR6iNzWCfIN2RTkOxouoy2
+api key  AIzaSyB1sz3FSyYqtWPA_CcRMFAAVTQl7gYDpRE
+https://esp32-efff7-default-rtdb.europe-west1.firebasedatabase.app/
